@@ -25,3 +25,6 @@ npm install
 node server.js
 
 🚄 Mini-Railway running on 0.0.0.0:8080
+
+ip addr
+
